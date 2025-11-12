@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mdclass:Catalog xmlns:mdclass="http://g5.1c.ru/v8/dt/metadata/mdclass" uuid="4359cda2-9a3c-44ad-974a-f7fb0b23c078">
+  <producedTypes>
+    <objectType typeId="7214b0c0-a8ea-49a1-9b3c-7203f02d4b12" valueTypeId="926496bb-f52a-4b7a-b221-094c87bc51f8"/>
+    <refType typeId="82b9616d-96a7-4fa2-bdf2-4f56a4ac3242" valueTypeId="d7b6f465-0d80-4100-a834-3bb610223262"/>
+    <selectionType typeId="282618e6-3d0e-4923-a492-6fa39ebfcc28" valueTypeId="9e6b4c42-8188-444f-bba5-0f73f5d6a50d"/>
+    <listType typeId="00ec0b35-d22b-4474-b67f-3010a3603851" valueTypeId="b29dc298-2dc1-488d-8cd6-b85586591ad3"/>
+    <managerType typeId="4d418c59-2e83-4275-8477-0cbc9f24b58d" valueTypeId="1ad8e725-e866-4820-8ad0-bc377f37f30e"/>
+  </producedTypes>
+  <name>Нетол_Дожности</name>
+  <synonym>
+    <key>ru</key>
+    <value>Дожности</value>
+  </synonym>
+  <useStandardCommands>true</useStandardCommands>
+  <inputByString>Catalog.Нетол_Дожности.StandardAttribute.Code</inputByString>
+  <inputByString>Catalog.Нетол_Дожности.StandardAttribute.Description</inputByString>
+  <fullTextSearchOnInputByString>DontUse</fullTextSearchOnInputByString>
+  <createOnInput>Use</createOnInput>
+  <dataLockControlMode>Managed</dataLockControlMode>
+  <fullTextSearch>Use</fullTextSearch>
+  <objectPresentation>
+    <key>ru</key>
+    <value>Должность</value>
+  </objectPresentation>
+  <levelCount>2</levelCount>
+  <foldersOnTop>true</foldersOnTop>
+  <codeLength>9</codeLength>
+  <descriptionLength>50</descriptionLength>
+  <codeType>String</codeType>
+  <codeAllowedLength>Variable</codeAllowedLength>
+  <checkUnique>true</checkUnique>
+  <autonumbering>true</autonumbering>
+  <defaultPresentation>AsDescription</defaultPresentation>
+  <editType>InDialog</editType>
+  <choiceMode>BothWays</choiceMode>
+</mdclass:Catalog>
